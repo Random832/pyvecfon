@@ -1,0 +1,3 @@
+[submodule "mkwinfont"]
+	path = mkwinfont
+	url = https://github.com/Random832/mkwinfont
